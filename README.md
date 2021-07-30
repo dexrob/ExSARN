@@ -36,6 +36,22 @@ for i, (x,  y) in enumerate(train_loader):
 
 ```
 
+## Distribution
+If you find our data / method helpful, please cite our paper. Suggestions, discussion, and collaboration are always welcomed!
+
+```
+@inproceedings{gao2021explainability,
+title = {On Explainability and Sensor-Adaptability of a Robot Tactile Texture Representation Using a Two-Stage Recurrent Networks},
+author = {Ruihan Gao and Tian Tian and Zhiping Lin and Yan Wu},
+year = {2021},
+date = {2021-09-27},
+booktitle = {2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) },
+keywords = {},
+pubstate = {forthcoming},
+tppubtype = {inproceedings}
+}
+```
+
 
 
 
