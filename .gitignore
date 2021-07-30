@@ -1,0 +1,6 @@
+/code/stats_and_models/*
+/code/data/*
+/code/save/*
+/code/gpu_results/*
+/code/models_and_stats/*
+.vscode/*
